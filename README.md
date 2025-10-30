@@ -1,4 +1,4 @@
-<img width="888" height="629" alt="image" src="https://github.com/user-attachments/assets/853b2009-6f61-498c-a2b2-ba6190a4f0cb" />1️⃣ Clone this repository :
+1️⃣ Clone this repository :
 
     git clone https://github.com/YOUR_USERNAME/User_Managemet.git
     cd User_Managemet
@@ -72,3 +72,12 @@ node node.js
 Then open Postman and test the routes at:
 
 http://localhost:3000/books
+
+📷Output : 
+
+GET method : 
+<img width="890" height="798" alt="image" src="https://github.com/user-attachments/assets/d9d1e963-2dc1-4f63-907f-5bfe208b7e9e" />
+
+
+POST method : 
+<img width="888" height="629" alt="image" src="https://github.com/user-attachments/assets/394e48b1-c8e5-4615-94de-3024c393d5b3" />
